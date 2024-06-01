@@ -1,6 +1,6 @@
 # Proyecto de Clustering con K-Means y DBSCAN
 
-## Yasmin Alejandra Giraldo Rendon
+## Yasmin Alejandra Giraldo Rendón
 ## Jhorman David Rodriguez Rios
 
 Este proyecto utiliza técnicas de clustering para analizar el dataset de Iris. Se emplean los algoritmos K-Means y DBSCAN para agrupar los datos y se evalúan los resultados utilizando el coeficiente de Silhouette.
